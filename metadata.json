@@ -1,0 +1,5 @@
+{
+  "name": "Skool Library Manager",
+  "description": "A comprehensive school library management system for tracking books, issuing, and returns with CSV export capabilities.",
+  "requestFramePermissions": []
+}
